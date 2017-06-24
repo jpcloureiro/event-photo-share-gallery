@@ -1,1 +1,7 @@
-../event-photo-share-gallery/build/asset-manifest.json
+{
+  "main.css": "static/css/main.9a0fe4f1.css",
+  "main.css.map": "static/css/main.9a0fe4f1.css.map",
+  "main.js": "static/js/main.ae2f91b6.js",
+  "main.js.map": "static/js/main.ae2f91b6.js.map",
+  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+}
